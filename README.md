@@ -1,9 +1,15 @@
-### Hi there 👋
+<h1>Hi!👋 welcome to my Github :computer:</h1> 
+<img src="https://github.com/MariaJoseFP/MariaJoseFP/blob/main/studenm.png" width="800" height="200">
+
+<p>I'm an information technology student motivated to keep improving my abilities and looking for professional experience.:sun_with_face:</p>
+
+
 
 <!--
+<!### Hi!👋 welcome to my Github
 **MariaJoseFP/MariaJoseFP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+
 ![Texto alternativo]('https://drive.google.com/file/d/1zGq-opU6-2Pgda3giDyMF9j2EInvFqg-/view?usp=sharing.png')
 
 Here are some ideas to get you started:
